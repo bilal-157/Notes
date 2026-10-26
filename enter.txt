@@ -1,12 +1,19 @@
-Chraracteristics of Business
-1.Economic Activity
-2.Production or Exchange of Goods and Service
-3.Profit Motive
-4.Regular and Continuous Process
-5.Risk and Uncertainty
-6.Sale or Transfer for Value
-7.Customer Satisfaction
-8.Organized and Systematic Activity
-9.Social Responsibility
-10.Lawful and Ethical Activity
-11.Use of Resources and Technology
+Characteristics of Business :
+Group 1, Business kya hai: Economic Activity, Production or Exchange, Sale or Transfer for Value
+Group 2, Business kaise chalta hai: Regular and Continuous, Organized and Systematic, Use of Resources and Technology
+Group 3, Maqsad aur khatra: Profit Motive, Risk and Uncertainty, Customer Satisfaction
+Group 4, Mahol aur usool: Social Responsibility, Lawful and Ethical, Dynamic and Competitive
+
+Objectives of Business (Business ke maqasid) :
+Qisam	Points
+Group 1, Economic Objectives (paisa aur karobari taraqqi)	Profit Earning, Survival and Stability, Growth and Expansion, Customer Satisfaction, Innovation and Improvement, Optimum Use of Resources, Fair Return to Owners, Market Leadership
+Group 2, Social Objectives (muashre ke liye)	Employment Generation, Social Responsibility, Compliance with Law and Ethics
+Group 3, Human Objectives (insanon ke liye) Welfare of Employees
+
+Role of Business in Economic Progress of the Country :
+Group 1, Paida-war aur aamdani: Production, Employment, National Income, Capital Formation
+Group 2, Tijarat: Domestic Trade, Foreign Trade
+Group 3, Taraqqi ke zariye: Technology, Government Revenue, Infrastructure
+Group 4, Muashre aur istehkam: SMEs, Regional Development, Living Standards, Entrepreneurship, Social Welfare, Economic Stability
+
+
